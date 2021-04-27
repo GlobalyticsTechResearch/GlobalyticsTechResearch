@@ -23,5 +23,5 @@ AI enables BI tools to produce clear, useful insights from the data we analyze. 
 #### OUR AI EDGE
 Thanks to our exceptional competence in cognitive computing and AI, our STAR System’s sophisticated algorithms can gain insights into consumer behavior, use the real-time insights to identify trends and make informed decisions to keep us competitive in the tech-powered business landscape.
 
-👋 @GlobalyticsTechResearch
-📫 Contact me at contact@gtr.tech
+- 👋 @GlobalyticsTechResearch
+- 📫 Contact me at contact@gtr.tech
