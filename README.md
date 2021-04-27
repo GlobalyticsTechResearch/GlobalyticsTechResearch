@@ -1,8 +1,8 @@
-#### OUR MISSION
+#### OUR MISSION  :globe_with_meridians:
 “Using Predictive Analytics To Become The Vanguards Of Progress”
 Our mission is to utilize predictive analytics technology to detect new discoveries and explore new boundaries. We aim to be the fabric of the world sentiment and forefront of trends. We use this intelligence to make informed decisions and achieve desired results.
 
-#### OUR VISION
+#### OUR VISION  :eyeglasses:
 “Change the World With Intelligent Data.”
 informed and accurate decisions with complete trust in data assisted by the processing power and technological prowess of our STAR System. When intelligent decisions happen at the right moment, we can flourish together as the world advances.
 
@@ -23,5 +23,5 @@ AI enables BI tools to produce clear, useful insights from the data we analyze. 
 #### OUR AI EDGE
 Thanks to our exceptional competence in cognitive computing and AI, our STAR System’s sophisticated algorithms can gain insights into consumer behavior, use the real-time insights to identify trends and make informed decisions to keep us competitive in the tech-powered business landscape.
 
-- 👋 @GlobalyticsTechResearch
-- 📫 Contact me at contact@gtr.tech
+👋 @GlobalyticsTechResearch
+📫 Contact me at contact@gtr.tech
